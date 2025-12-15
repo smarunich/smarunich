@@ -1,18 +1,21 @@
 # Sergey Marunich
 
-**Director, Solutions Architect @ [Tetrate](https://tetrate.io)** | CCIE #51030
+** Lead Solutions Architect @ [Tetrate](https://tetrate.io)** | CCIE #51030
 
-Full-stack infrastructure: from L7 service mesh and AI inference platforms, through cloud and VMware virtualization, down to BGP/MPLS and spine-leaf datacenters. 15+ years in Fortune 500 financial services.
+Technical leader deploying enterprise service mesh and AI platforms at Morgan Stanley, BlackRock, Visa, JP Morgan and TD Bank. Built field engineering teams (2→26), shipped products from idea to GA, and drove $M+ enterprise deals. 15+ years Fortune 500 financial services. Open source contributor to Envoy/Istio.
 
+**Service Mesh & L7** Istio • Envoy • Envoy Gateway • Rate Limiting • AuthN/AuthZ • mTLS • Custom Filters
+**AI/ML Platform** KServe • Knative • Envoy AI Gateway • LiteLLM • OpenAI/Azure/Bedrock APIs
+**Platform** Kubernetes • EKS/AKS/GKE • OpenShift • K8s Operators • Admission Controllers • Helm
 **Code** Go • Python • Lua • TypeScript
-**Platform** Kubernetes • KServe • Knative • Helm
-**IaC & GitOps** Terraform • Crossplane • ArgoCD • FluxCD • Ansible
-**L7** Istio • Envoy Gateway • Service Mesh • API Gateway • Rate Limiting • mTLS
-**Cloud** AWS • Azure • GCP • OpenShift • EKS/AKS/GKE
-**Virtualization** VMware NSX-T/V • vSphere • ACI
-**Network** BGP • MPLS • VXLAN/EVPN • Spine-Leaf • DWDM • CNI (Cilium, Calico)
+**IaC & GitOps** Terraform • Crossplane • ArgoCD • FluxCD • Ansible • Pulumi
+**Observability** Prometheus • Grafana • OpenTelemetry • SkyWalking • eBPF
+**Load Balancing** VMware Avi Networks • F5 • NGINX • HAProxy • GSLB • WAF
+**Cloud** AWS • Azure • GCP • Multi-cloud Architecture
+**Network** BGP • OSPF • MPLS • VXLAN/EVPN • Spine-Leaf • DWDM • CNI (Cilium, Calico)
+**Virtualization** VMware NSX-T/V • vSphere • OpenStack and KubeVirt
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-smarunich-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/smarunich) [![Twitter](https://img.shields.io/badge/-@smarunich-1DA1F2?style=flat&logo=twitter)](https://twitter.com/smarunich)
-# smarunich
+[![LinkedIn](https://img.shields.io/badge/-smarunich-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/smarunich) [![Twitter](https://img.shields.io/badge/-@smarunich-1DA1F2?style=f
+lat&logo=twitter)](https://twitter.com/smarunich)
