@@ -2,20 +2,26 @@
 
 ** Lead Solutions Architect @ [Tetrate](https://tetrate.io)** | CCIE #51030
 
-Technical leader deploying enterprise service mesh and AI platforms at Morgan Stanley, BlackRock, Visa, JP Morgan and TD Bank. Built field engineering teams (2→26), shipped products from idea to GA, and drove $M+ enterprise deals. 15+ years Fortune 500 financial services. Open source contributor to Envoy/Istio.
-
 **Service Mesh & L7** Istio • Envoy • Envoy Gateway • Rate Limiting • AuthN/AuthZ • mTLS • Custom Filters
+
 **AI/ML Platform** KServe • Knative • Envoy AI Gateway • LiteLLM • OpenAI/Azure/Bedrock APIs
+
 **Platform** Kubernetes • EKS/AKS/GKE • OpenShift • K8s Operators • Admission Controllers • Helm
+
 **Code** Go • Python • Lua • TypeScript
+
 **IaC & GitOps** Terraform • Crossplane • ArgoCD • FluxCD • Ansible • Pulumi
+
 **Observability** Prometheus • Grafana • OpenTelemetry • SkyWalking • eBPF
+
 **Load Balancing** VMware Avi Networks • F5 • NGINX • HAProxy • GSLB • WAF
+
 **Cloud** AWS • Azure • GCP • Multi-cloud Architecture
+
 **Network** BGP • OSPF • MPLS • VXLAN/EVPN • Spine-Leaf • DWDM • CNI (Cilium, Calico)
+
 **Virtualization** VMware NSX-T/V • vSphere • OpenStack and KubeVirt
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-smarunich-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/smarunich) [![Twitter](https://img.shields.io/badge/-@smarunich-1DA1F2?style=f
-lat&logo=twitter)](https://twitter.com/smarunich)
+[![LinkedIn](https://img.shields.io/badge/-smarunich-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/smarunich) 
