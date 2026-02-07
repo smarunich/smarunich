@@ -1,6 +1,6 @@
 # Sergey Marunich
 
-**Senior Solutions Architect**  @ [NVIDIA](https://nvidia.com) | CCIE #51030
+**Senior Solutions Architect**  @ [NVIDIA](https://www.nvidia.com) | CCIE #51030
 
 **Service Mesh & L7** Istio • Envoy • Envoy Gateway • Rate Limiting • AuthN/AuthZ • mTLS • Custom Filters
 
