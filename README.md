@@ -1,6 +1,6 @@
 # Sergey Marunich
 
-**Lead Solutions Architect** @ [Tetrate](https://tetrate.io) | CCIE #51030
+**Senior Solutions Architect**  @ [NVIDIA](https://nvidia.com) | CCIE #51030
 
 **Service Mesh & L7** Istio • Envoy • Envoy Gateway • Rate Limiting • AuthN/AuthZ • mTLS • Custom Filters
 
